@@ -1,61 +1,61 @@
 [{
     "id": 1,
-    "image": "./assets/images/",
+    "image": "./assets/img/angelica.jpg",
     "clicked": false
 },
 {
     "id": 2,
-    "image": "./assets/images/",
+    "image": "./assets/img/charles.jpg",
     "clicked": false
 },
 {
     "id": 3,
-    "image": "./assets/images/",
+    "image": "./assets/img/chloe.jpg",
     "clicked": false
 },
 {
     "id": 4,
-    "image": "./assets/images/",
+    "image": "./assets/img/dizzy.jpg",
     "clicked": false
 },
 {
     "id": 5,
-    "image": "./assets/images/",
+    "image": "./assets/img/iseria.jpg",
     "clicked": false
 },
 {
     "id": 6,
-    "image": "./assets/images/",
+    "image": "./assets/img/mercedes.jpg",
     "clicked": false
 },
 {
     "id": 7,
-    "image": "./assets/images/",
+    "image": "./assets/img/ravi.jpg",
     "clicked": false
 },
 {
     "id": 8,
-    "image": "./assets/images/",
+    "image": "./assets/img/redeca.jpg",
     "clicked": false
 },
 {
     "id": 9,
-    "image": "./assets/images/",
+    "image": "./assets/img/santamuerte.jpg",
     "clicked": false
 },
 {
     "id": 10,
-    "image": "./assets/images/",
+    "image": "./assets/img/tenebria.jpg",
     "clicked": false
 },
 {
     "id": 11,
-    "image": "./assets/images/",
+    "image": "./assets/img/tywin.jpg",
     "clicked": false
 },
 {
     "id": 12,
-    "image": "./assets/images/",
+    "image": "./assets/img/vildred.jpg",
     "clicked": false
 }
 ]
