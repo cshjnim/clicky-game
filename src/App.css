@@ -49,6 +49,11 @@
   margin-bottom: 20px;
 }
 
+.card-header {
+  /* background: #8aaeb8; */
+  background-image: url(/public/assets/img/cool-backgrounds.jpeg);
+}
+
 .row {
   margin: 30px; 
 }

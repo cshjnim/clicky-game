@@ -15,5 +15,7 @@
 }
 
 .card>.img-container>img {
-    width: 150px;   
+    width: 150px;  
+    background-position: 50%;
+    margin: 8px 25px; 
 }
