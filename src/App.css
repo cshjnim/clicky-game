@@ -50,10 +50,11 @@
 }
 
 .card-header {
-  /* background: #8aaeb8; */
-  background-image: url(/public/assets/img/cool-backgrounds.jpeg);
+  background: #8aaeb8;
+  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
 }
 
 .row {
+  padding-bottom: 50px;
   margin: 30px; 
 }

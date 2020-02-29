@@ -1,0 +1,12 @@
+.navbar {
+    min-height: 70px;
+    align-content: center;
+    width: 100%;
+    box-shadow: 0 14px 28px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.22);
+}
+
+.navbar-brand {
+    color: #000000;
+    margin-left: 35%;
+    margin-right: 10%;
+}
